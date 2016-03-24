@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca1a9497-c2b3-41e5-8671-c793b4166d23" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/css/blog.css" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" />
-    </list>
+    <list default="true" id="ca1a9497-c2b3-41e5-8671-c793b4166d23" name="Default" comment="" />
     <ignored path="techgarten.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -553,7 +549,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="52" width="1309" height="716" extended-state="0" />
+    <frame x="57" y="52" width="1309" height="716" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14591292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
