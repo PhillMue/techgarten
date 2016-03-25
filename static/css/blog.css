@@ -6,6 +6,7 @@ h1 a {
 .page-header {
     background-color: #666666 ;
     margin-top: 0;
+    margin-left: 15%;
     padding: 20px 20px 20px 40px;
 }
 .content1 {
@@ -56,4 +57,67 @@ h1, h2, h3, h4 {
 }
 body{
     background-color: #5b80b2;
+}
+
+
+/*SIDE MENU*/
+
+
+
+.cbp-vimenu {
+position: fixed;
+float: right;
+overflow: hidden;
+top: 0;
+left: 0;
+height: 100%;
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #82a9b1;
+width: 15%;
+}
+.cbp-vimenu li a {
+display: block;
+width: inherit;
+height: 5em;
+line-height: 5em;
+text-align: center;
+color: #a27d2a;
+position: relative;
+border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+-webkit-transition: background 0.1s ease-in-out;
+-moz-transition: background 0.1s ease-in-out;
+transition: background 0.1s ease-in-out;
+}
+.cbp-vimenu li a,
+.cbp-vimenu li:first-child a {
+background-color: #82a9b1;
+color: black;
+}
+.cbp-vimenu li a:hover,
+.cbp-vimenu li:first-child a {
+background-color: #3adb76;
+color: #47a3da;
+}
+.cbp-vimenu li a:before {
+speak: none;
+font-style: normal;
+font-weight: normal;
+text-indent: 0em;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+font-size: 1.4em;
+-webkit-font-smoothing: antialiased;
+}
+.cbp-vimenu li a.icon-logo:before {
+content: "mUe";
+font-weight: 700;
+font-size: 200%;
+font-family: 'Montserrat', sans-serif;
+color: black;
+background-color: #4b749d;
 }
