@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca1a9497-c2b3-41e5-8671-c793b4166d23" name="Default" comment="" />
+    <list default="true" id="ca1a9497-c2b3-41e5-8671-c793b4166d23" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/css/blog.css" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
+    </list>
     <ignored path="techgarten.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -68,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.050847456">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="25" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -153,8 +155,8 @@
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_detail.html" />
-        <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
         <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
+        <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
       </list>
     </option>
   </component>
@@ -549,7 +551,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="52" width="1309" height="716" extended-state="1" />
+    <frame x="57" y="52" width="1309" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14591292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -800,7 +802,7 @@
     <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.050847456">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="25" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
