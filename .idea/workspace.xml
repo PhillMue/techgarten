@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
+
     <list default="true" id="ca1a9497-c2b3-41e5-8671-c793b4166d23" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/css/blog.css" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
     </list>
-=======
+
     <list default="true" id="ca1a9497-c2b3-41e5-8671-c793b4166d23" name="Default" comment="" />
->>>>>>> 1c15aaa12b37322e9927a82413dc641066242cc8
+
     <ignored path="techgarten.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
